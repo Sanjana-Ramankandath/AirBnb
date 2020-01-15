@@ -3,7 +3,7 @@
 Airbnb is an online marketplace for sharing homes and experiences, where
 guests who seek accommodation are matched to hosts who have spare rooms to share. Our data consists of
 data for six cities, New York, Washington DC, Chicago, San Francisco, Boston, and Los Angeles.
-Following are the questions that we aim to answer through our analysis:
+Following are the questions that are answered through this analysis:
 
 ● How do prices of listings vary by the city?
 
