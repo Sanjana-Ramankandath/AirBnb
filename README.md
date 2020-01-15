@@ -1,4 +1,4 @@
-# AirBnb
+# AirBnb Rental Analysis
 
 Airbnb is an online marketplace for sharing homes and experiences, where
 guests who seek accommodation are matched to hosts who have spare rooms to share. Our data consists of
