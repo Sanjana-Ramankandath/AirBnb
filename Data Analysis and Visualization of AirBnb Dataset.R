@@ -1,10 +1,6 @@
 #----------------------------------------------------------------
-#  # R project_2 MSIS 2506 Fall 2019
-#  # Group Members - Apurva Shekhar, Karishma Vsrodia, Ritu Ranjani Ravi Shankar, Sanjana Ramakandath, Vidhi Gandhi
-
-#  # Project - Analysis of Airbnb - 2 years ago data
-#  # Data sourced from - Kaggel.com
-#  # Email IDs: 
+#  # Project - Analysis of Airbnb
+#  # Data sourced from - Kaggle.com
 #
 #----------------------------------------------------------------
 
